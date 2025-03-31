@@ -1,7 +1,16 @@
-Prénom Yanis Nom Kheffache Mail yanis.kheffache@gmail.com
+Prénom : Yanis
 
-#TD réalisé sur WSL #Fichiers disponibles sur la branche main
+Nom : Kheffache
+
+Mail : yanis.kheffache@gmail.com
+
+
+#TD réalisé sur WSL
+
+#Fichiers disponibles sur la branche main
+
 #Pour lancer certains codes, j'ai dû le faire dans un environnement virtuel car bibliothèque non dispo et non ajoutable
+
 
 Mes réponses :
 * Prise en main
